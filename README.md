@@ -2,8 +2,8 @@
 
 This project implements a parking management system using Event Driven Architecture and Domain Driven Design principles. It consists of multiple services orchestrated via Docker-compose.
 
-[![Report Service Build](https://github.com/rochmanramadhani/test-oca-bak/actions/workflows/report-service.yaml/badge.svg)](https://github.com/rochmanramadhani/test-oca-bak/actions/workflows/report-service.yaml)
-[![Parking Service Build](https://github.com/rochmanramadhani/test-oca-bak/actions/workflows/parking-service.yaml/badge.svg)](https://github.com/rochmanramadhani/test-oca-bak/actions/workflows/parking-service.yaml)
+[![Report Service Build](https://github.com/rochmanrmdhnn/test-oca-bak/actions/workflows/report-service.yaml/badge.svg)](https://github.com/rochmanrmdhnn/test-oca-bak/actions/workflows/report-service.yaml)
+[![Parking Service Build](https://github.com/rochmanrmdhnn/test-oca-bak/actions/workflows/parking-service.yaml/badge.svg)](https://github.com/rochmanrmdhnn/test-oca-bak/actions/workflows/parking-service.yaml)
 
 ## Overview
 
@@ -12,7 +12,7 @@ This system aims to manage parking operations efficiently, leveraging modern arc
 - **Domain Driven Design**: Each module encapsulates domain logic, enhancing clarity and modularity within the system.
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/rochmanramadhani/bank-techschool-service/assets/115830242/1fed9b9d-ba55-43a6-8f65-dd6851980f0b)
+![Architecture Diagram](https://github.com/rochmanrmdhnn/bank-techschool-service/assets/115830242/1fed9b9d-ba55-43a6-8f65-dd6851980f0b)
 
 This architecture diagram provides a high-level overview of the system components and their interactions within a microservices setup. The diagram includes a client, Nginx, and Docker containers hosting different services. Below is a detailed explanation of each component and the flow:
 
@@ -48,7 +48,7 @@ This architecture diagram provides a high-level overview of the system component
 This architecture ensures that the system is modular, scalable, and easy to manage, providing a robust solution for handling different types of service requests.
 
 ## Sequence Diagram
-![Sequence Diagram](https://github.com/rochmanramadhani/bank-techschool-service/assets/115830242/b608d4fa-a2ac-4e25-90ec-9f7c345a996a)
+![Sequence Diagram](https://github.com/rochmanrmdhnn/bank-techschool-service/assets/115830242/b608d4fa-a2ac-4e25-90ec-9f7c345a996a)
 
 This sequence diagram illustrates the interaction between various components in a microservices architecture setup involving a client, server, Docker, Nginx, ParkingService, and ReportService. Below is a step-by-step breakdown of the process:
 
@@ -88,7 +88,7 @@ This sequence ensures that all services are up and running before handling clien
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rochmanramadhani/test-oca.git
+   git clone https://github.com/rochmanrmdhnn/test-oca.git
    cd test-oca
    ```
 
